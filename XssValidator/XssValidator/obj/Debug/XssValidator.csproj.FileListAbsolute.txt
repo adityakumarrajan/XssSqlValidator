@@ -1,0 +1,10 @@
+D:\MyWork\Validator\XssValidator\XssValidator\bin\Debug\XssValidator.exe.config
+D:\MyWork\Validator\XssValidator\XssValidator\obj\Debug\XssValidator.csprojResolveAssemblyReference.cache
+D:\MyWork\Validator\XssValidator\XssValidator\bin\Debug\XssValidator.exe
+D:\MyWork\Validator\XssValidator\XssValidator\bin\Debug\XssValidator.pdb
+D:\MyWork\Validator\XssValidator\XssValidator\bin\Debug\AntiXssLibrary.dll
+D:\MyWork\Validator\XssValidator\XssValidator\bin\Debug\HtmlSanitizationLibrary.dll
+D:\MyWork\Validator\XssValidator\XssValidator\bin\Debug\AntiXssLibrary.xml
+D:\MyWork\Validator\XssValidator\XssValidator\bin\Debug\HtmlSanitizationLibrary.xml
+D:\MyWork\Validator\XssValidator\XssValidator\obj\Debug\XssValidator.exe
+D:\MyWork\Validator\XssValidator\XssValidator\obj\Debug\XssValidator.pdb

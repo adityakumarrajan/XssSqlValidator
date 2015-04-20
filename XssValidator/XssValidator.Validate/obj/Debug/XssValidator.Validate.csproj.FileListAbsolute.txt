@@ -1,0 +1,9 @@
+D:\MyWork\Validator\XssValidator\XssValidator.Validate\bin\Debug\XssValidator.Validate.dll.config
+D:\MyWork\Validator\XssValidator\XssValidator.Validate\bin\Debug\XssValidator.Validate.dll
+D:\MyWork\Validator\XssValidator\XssValidator.Validate\bin\Debug\XssValidator.Validate.pdb
+D:\MyWork\Validator\XssValidator\XssValidator.Validate\obj\Debug\XssValidator.Validate.dll
+D:\MyWork\Validator\XssValidator\XssValidator.Validate\obj\Debug\XssValidator.Validate.pdb
+D:\MyWork\Validator\XssValidator\XssValidator.Validate\bin\Debug\AntiXssLibrary.dll
+D:\MyWork\Validator\XssValidator\XssValidator.Validate\bin\Debug\HtmlSanitizationLibrary.dll
+D:\MyWork\Validator\XssValidator\XssValidator.Validate\bin\Debug\AntiXssLibrary.xml
+D:\MyWork\Validator\XssValidator\XssValidator.Validate\bin\Debug\HtmlSanitizationLibrary.xml

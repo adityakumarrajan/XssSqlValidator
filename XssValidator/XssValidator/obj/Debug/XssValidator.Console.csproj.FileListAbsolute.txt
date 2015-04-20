@@ -1,0 +1,2 @@
+D:\MyWork\Validator\XssValidator\XssValidator\bin\Debug\XssValidator.Console.exe.config
+D:\MyWork\Validator\XssValidator\XssValidator\obj\Debug\XssValidator.Console.csprojResolveAssemblyReference.cache

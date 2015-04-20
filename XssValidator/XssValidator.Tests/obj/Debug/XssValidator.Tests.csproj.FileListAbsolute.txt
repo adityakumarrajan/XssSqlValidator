@@ -1,0 +1,12 @@
+D:\MyWork\Validator\XssValidator\XssValidator.Tests\bin\Debug\XssValidator.Tests.dll.config
+D:\MyWork\Validator\XssValidator\XssValidator.Tests\bin\Debug\XssValidator.Tests.dll
+D:\MyWork\Validator\XssValidator\XssValidator.Tests\bin\Debug\XssValidator.Tests.pdb
+D:\MyWork\Validator\XssValidator\XssValidator.Tests\bin\Debug\nunit.framework.dll
+D:\MyWork\Validator\XssValidator\XssValidator.Tests\bin\Debug\nunit.framework.xml
+D:\MyWork\Validator\XssValidator\XssValidator.Tests\obj\Debug\XssValidator.Tests.csprojResolveAssemblyReference.cache
+D:\MyWork\Validator\XssValidator\XssValidator.Tests\obj\Debug\XssValidator.Tests.dll
+D:\MyWork\Validator\XssValidator\XssValidator.Tests\obj\Debug\XssValidator.Tests.pdb
+D:\MyWork\Validator\XssValidator\XssValidator.Tests\bin\Debug\XssValidator.Validate.dll
+D:\MyWork\Validator\XssValidator\XssValidator.Tests\bin\Debug\HtmlSanitizationLibrary.dll
+D:\MyWork\Validator\XssValidator\XssValidator.Tests\bin\Debug\XssValidator.Validate.pdb
+D:\MyWork\Validator\XssValidator\XssValidator.Tests\bin\Debug\HtmlSanitizationLibrary.xml

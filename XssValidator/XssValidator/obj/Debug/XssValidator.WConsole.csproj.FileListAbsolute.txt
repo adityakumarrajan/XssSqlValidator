@@ -1,0 +1,5 @@
+D:\MyWork\Validator\XssValidator\XssValidator\bin\Debug\XssValidator.WConsole.exe.config
+D:\MyWork\Validator\XssValidator\XssValidator\bin\Debug\XssValidator.WConsole.exe
+D:\MyWork\Validator\XssValidator\XssValidator\bin\Debug\XssValidator.WConsole.pdb
+D:\MyWork\Validator\XssValidator\XssValidator\obj\Debug\XssValidator.WConsole.exe
+D:\MyWork\Validator\XssValidator\XssValidator\obj\Debug\XssValidator.WConsole.pdb
